@@ -9,12 +9,12 @@
   "author": "Ben Schroeder",
   "license": "ISC",
   "dependencies": {
-    "leaflet": "^1.2.0"
+    "leaflet": "^1.4.0"
   },
   "devDependencies": {
-    "css-loader": "^0.28.7",
-    "file-loader": "^1.1.5",
-    "style-loader": "^0.19.0",
-    "webpack": "^3.8.1"
+    "css-loader": "^0.28.11",
+    "file-loader": "^1.1.11",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.12.0"
   }
 }
