@@ -9,7 +9,7 @@
   "author": "Ben Schroeder",
   "license": "ISC",
   "dependencies": {
-    "leaflet": "^1.4.0"
+    "leaflet": "^1.6.0"
   },
   "devDependencies": {
     "css-loader": "^0.28.11",
