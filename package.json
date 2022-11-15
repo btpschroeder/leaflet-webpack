@@ -16,6 +16,6 @@
     "file-loader": "^1.1.11",
     "style-loader": "^0.19.1",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
